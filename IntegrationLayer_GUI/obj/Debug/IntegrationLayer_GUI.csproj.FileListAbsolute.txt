@@ -1,0 +1,83 @@
+D:\JEPCO\System_Integration\Integration Service Layer\AdtechILTesting\IntegrationLayer_GUI\bin\Debug\IntegrationLayer_GUI.exe.config
+D:\JEPCO\System_Integration\Integration Service Layer\AdtechILTesting\IntegrationLayer_GUI\bin\Debug\IntegrationLayer_GUI.exe
+D:\JEPCO\System_Integration\Integration Service Layer\AdtechILTesting\IntegrationLayer_GUI\bin\Debug\IntegrationLayer_GUI.pdb
+D:\JEPCO\System_Integration\Integration Service Layer\AdtechILTesting\IntegrationLayer_GUI\obj\Debug\IntegrationLayer_GUI.csproj.AssemblyReference.cache
+D:\JEPCO\System_Integration\Integration Service Layer\AdtechILTesting\IntegrationLayer_GUI\obj\Debug\IntegrationLayer_GUI.csproj.SuggestedBindingRedirects.cache
+D:\JEPCO\System_Integration\Integration Service Layer\AdtechILTesting\IntegrationLayer_GUI\obj\Debug\IntegrationLayer_GUI.Properties.Resources.resources
+D:\JEPCO\System_Integration\Integration Service Layer\AdtechILTesting\IntegrationLayer_GUI\obj\Debug\IntegrationLayer_GUI.csproj.GenerateResource.cache
+D:\JEPCO\System_Integration\Integration Service Layer\AdtechILTesting\IntegrationLayer_GUI\obj\Debug\IntegrationLayer_GUI.csproj.CoreCompileInputs.cache
+D:\JEPCO\System_Integration\Integration Service Layer\AdtechILTesting\IntegrationLayer_GUI\obj\Debug\IntegrationLayer_GUI.exe
+D:\JEPCO\System_Integration\Integration Service Layer\AdtechILTesting\IntegrationLayer_GUI\obj\Debug\IntegrationLayer_GUI.pdb
+D:\JEPCO\System_Integration\Integration Service Layer\AdtechILTesting\IntegrationLayer_GUI\obj\Debug\IntegrationLayer_GUI.Form1.resources
+D:\JEPCO\System_Integration\Integration Service Layer\AdtechILTesting\IntegrationLayer_GUI\obj\Debug\IntegrationLayer_GUI.MappingForm.resources
+D:\JEPCO\System_Integration\Integration Service Layer\AdtechILTesting\IntegrationLayer_GUI\obj\Debug\IntegrationLayer_GUI.frm_Monitoring.resources
+D:\JEPCO\System_Integration\Integration Service Layer\AdtechILTesting\IntegrationLayer_GUI\obj\Debug\IntegrationLayer_GUI.DailyReading.resources
+D:\JEPCO\System_Integration\Integration Service Layer\AdtechILTesting\IntegrationLayer_GUI\bin\Debug\MaterialSkin.dll
+D:\JEPCO\System_Integration\Integration Service Layer\AdtechILTesting\IntegrationLayer_GUI\obj\Debug\IntegrationLayer_GUI.csproj.CopyComplete
+D:\JEPCO\System_Integration\Integration Service Layer\AdtechILTesting\IntegrationLayer_GUI\bin\Debug\MaterialDesignColors.dll
+D:\JEPCO\System_Integration\Integration Service Layer\AdtechILTesting\IntegrationLayer_GUI\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\JEPCO\System_Integration\Integration Service Layer\AdtechILTesting\IntegrationLayer_GUI\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\JEPCO\System_Integration\Integration Service Layer\AdtechILTesting\IntegrationLayer_GUI\bin\Debug\MaterialDesignColors.pdb
+D:\JEPCO\System_Integration\Integration Service Layer\AdtechILTesting\IntegrationLayer_GUI\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\JEPCO\System_Integration\Integration Service Layer\AdtechILTesting\IntegrationLayer_GUI\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\JEPCO\System_Integration\Integration Service Layer\AdtechILTesting\IntegrationLayer_GUI\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\JEPCO\System_Integration\Integration Service Layer\AdtechILTesting\IntegrationLayer_GUI\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\JEPCO\System_Integration\Integration Service Layer\AdtechILTesting\IntegrationLayer_GUI\bin\Debug\MetroFramework.Design.dll
+D:\JEPCO\System_Integration\Integration Service Layer\AdtechILTesting\IntegrationLayer_GUI\bin\Debug\MetroFramework.dll
+D:\JEPCO\System_Integration\Integration Service Layer\AdtechILTesting\IntegrationLayer_GUI\bin\Debug\MetroFramework.Fonts.dll
+D:\JEPCO\System_Integration\Integration Service Layer\AdtechILTesting\IntegrationLayer_GUI\obj\Debug\IntegrationLayer_GUI.TabForm.resources
+D:\DA2\AdtechILTesting\IntegrationLayer_GUI\bin\Debug\IntegrationLayer_GUI.exe.config
+D:\DA2\AdtechILTesting\IntegrationLayer_GUI\bin\Debug\IntegrationLayer_GUI.exe
+D:\DA2\AdtechILTesting\IntegrationLayer_GUI\bin\Debug\IntegrationLayer_GUI.pdb
+D:\DA2\AdtechILTesting\IntegrationLayer_GUI\bin\Debug\MaterialDesignColors.dll
+D:\DA2\AdtechILTesting\IntegrationLayer_GUI\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\DA2\AdtechILTesting\IntegrationLayer_GUI\bin\Debug\MaterialSkin.dll
+D:\DA2\AdtechILTesting\IntegrationLayer_GUI\bin\Debug\MetroFramework.Design.dll
+D:\DA2\AdtechILTesting\IntegrationLayer_GUI\bin\Debug\MetroFramework.dll
+D:\DA2\AdtechILTesting\IntegrationLayer_GUI\bin\Debug\MetroFramework.Fonts.dll
+D:\DA2\AdtechILTesting\IntegrationLayer_GUI\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\DA2\AdtechILTesting\IntegrationLayer_GUI\bin\Debug\MaterialDesignColors.pdb
+D:\DA2\AdtechILTesting\IntegrationLayer_GUI\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\DA2\AdtechILTesting\IntegrationLayer_GUI\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\DA2\AdtechILTesting\IntegrationLayer_GUI\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\DA2\AdtechILTesting\IntegrationLayer_GUI\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\DA2\AdtechILTesting\IntegrationLayer_GUI\obj\Debug\IntegrationLayer_GUI.csproj.AssemblyReference.cache
+D:\DA2\AdtechILTesting\IntegrationLayer_GUI\obj\Debug\IntegrationLayer_GUI.csproj.SuggestedBindingRedirects.cache
+D:\DA2\AdtechILTesting\IntegrationLayer_GUI\obj\Debug\IntegrationLayer_GUI.DailyReading.resources
+D:\DA2\AdtechILTesting\IntegrationLayer_GUI\obj\Debug\IntegrationLayer_GUI.Form1.resources
+D:\DA2\AdtechILTesting\IntegrationLayer_GUI\obj\Debug\IntegrationLayer_GUI.MappingForm.resources
+D:\DA2\AdtechILTesting\IntegrationLayer_GUI\obj\Debug\IntegrationLayer_GUI.frm_Monitoring.resources
+D:\DA2\AdtechILTesting\IntegrationLayer_GUI\obj\Debug\IntegrationLayer_GUI.Properties.Resources.resources
+D:\DA2\AdtechILTesting\IntegrationLayer_GUI\obj\Debug\IntegrationLayer_GUI.TabForm.resources
+D:\DA2\AdtechILTesting\IntegrationLayer_GUI\obj\Debug\IntegrationLayer_GUI.csproj.GenerateResource.cache
+D:\DA2\AdtechILTesting\IntegrationLayer_GUI\obj\Debug\IntegrationLayer_GUI.csproj.CoreCompileInputs.cache
+D:\DA2\AdtechILTesting\IntegrationLayer_GUI\obj\Debug\IntegrationLayer_GUI.csproj.CopyComplete
+D:\DA2\AdtechILTesting\IntegrationLayer_GUI\obj\Debug\IntegrationLayer_GUI.exe
+D:\DA2\AdtechILTesting\IntegrationLayer_GUI\obj\Debug\IntegrationLayer_GUI.pdb
+C:\Users\Lenovo\source\repos\AdtechILTesting\IntegrationLayer_GUI\bin\Debug\IntegrationLayer_GUI.exe.config
+C:\Users\Lenovo\source\repos\AdtechILTesting\IntegrationLayer_GUI\bin\Debug\IntegrationLayer_GUI.exe
+C:\Users\Lenovo\source\repos\AdtechILTesting\IntegrationLayer_GUI\bin\Debug\IntegrationLayer_GUI.pdb
+C:\Users\Lenovo\source\repos\AdtechILTesting\IntegrationLayer_GUI\bin\Debug\MaterialDesignColors.dll
+C:\Users\Lenovo\source\repos\AdtechILTesting\IntegrationLayer_GUI\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Lenovo\source\repos\AdtechILTesting\IntegrationLayer_GUI\bin\Debug\MaterialSkin.dll
+C:\Users\Lenovo\source\repos\AdtechILTesting\IntegrationLayer_GUI\bin\Debug\MetroFramework.Design.dll
+C:\Users\Lenovo\source\repos\AdtechILTesting\IntegrationLayer_GUI\bin\Debug\MetroFramework.dll
+C:\Users\Lenovo\source\repos\AdtechILTesting\IntegrationLayer_GUI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Lenovo\source\repos\AdtechILTesting\IntegrationLayer_GUI\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Lenovo\source\repos\AdtechILTesting\IntegrationLayer_GUI\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Lenovo\source\repos\AdtechILTesting\IntegrationLayer_GUI\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Lenovo\source\repos\AdtechILTesting\IntegrationLayer_GUI\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Lenovo\source\repos\AdtechILTesting\IntegrationLayer_GUI\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Lenovo\source\repos\AdtechILTesting\IntegrationLayer_GUI\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Lenovo\source\repos\AdtechILTesting\IntegrationLayer_GUI\obj\Debug\IntegrationLayer_GUI.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\AdtechILTesting\IntegrationLayer_GUI\obj\Debug\IntegrationLayer_GUI.DailyReading.resources
+C:\Users\Lenovo\source\repos\AdtechILTesting\IntegrationLayer_GUI\obj\Debug\IntegrationLayer_GUI.Form1.resources
+C:\Users\Lenovo\source\repos\AdtechILTesting\IntegrationLayer_GUI\obj\Debug\IntegrationLayer_GUI.MappingForm.resources
+C:\Users\Lenovo\source\repos\AdtechILTesting\IntegrationLayer_GUI\obj\Debug\IntegrationLayer_GUI.frm_Monitoring.resources
+C:\Users\Lenovo\source\repos\AdtechILTesting\IntegrationLayer_GUI\obj\Debug\IntegrationLayer_GUI.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\AdtechILTesting\IntegrationLayer_GUI\obj\Debug\IntegrationLayer_GUI.TabForm.resources
+C:\Users\Lenovo\source\repos\AdtechILTesting\IntegrationLayer_GUI\obj\Debug\IntegrationLayer_GUI.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\AdtechILTesting\IntegrationLayer_GUI\obj\Debug\IntegrationLayer_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\AdtechILTesting\IntegrationLayer_GUI\obj\Debug\Integrat.3C22F0F4.Up2Date
+C:\Users\Lenovo\source\repos\AdtechILTesting\IntegrationLayer_GUI\obj\Debug\IntegrationLayer_GUI.exe
+C:\Users\Lenovo\source\repos\AdtechILTesting\IntegrationLayer_GUI\obj\Debug\IntegrationLayer_GUI.pdb
