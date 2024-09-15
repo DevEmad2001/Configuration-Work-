@@ -10,11 +10,21 @@ using System.Windows.Forms;
 
 namespace IntegrationLayer_GUI
 {
-    public partial class TabForm : Form
+    public partial class DailyReadingForm4 : Form
     {
-        public TabForm()
+        public DailyReadingForm4()
         {
             InitializeComponent();
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

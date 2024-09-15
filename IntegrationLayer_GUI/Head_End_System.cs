@@ -10,11 +10,17 @@ using System.Windows.Forms;
 
 namespace IntegrationLayer_GUI
 {
-    public partial class DailyReading : Form
+    public partial class Head_End_System : Form
     {
-        public DailyReading()
+        public Head_End_System()
         {
             InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            // Update textbox1 & textbox2 to par1 & par 2
+
         }
     }
 }
