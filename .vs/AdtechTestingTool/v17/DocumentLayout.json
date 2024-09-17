@@ -3,35 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\AdtechILTesting\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{10B081BF-998A-4118-942C-E0AEA971AC1B}|IntegrationLayer_GUI\\IntegrationLayer_GUI.csproj|c:\\users\\lenovo\\source\\repos\\adtechiltesting\\integrationlayer_gui\\virtual network meters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{10B081BF-998A-4118-942C-E0AEA971AC1B}|IntegrationLayer_GUI\\IntegrationLayer_GUI.csproj|solutionrelative:integrationlayer_gui\\virtual network meters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10B081BF-998A-4118-942C-E0AEA971AC1B}|IntegrationLayer_GUI\\IntegrationLayer_GUI.csproj|C:\\Users\\Lenovo\\source\\repos\\AdtechILTesting\\integrationlayer_gui\\adtech_core_service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{10B081BF-998A-4118-942C-E0AEA971AC1B}|IntegrationLayer_GUI\\IntegrationLayer_GUI.csproj|c:\\users\\lenovo\\source\\repos\\adtechiltesting\\integrationlayer_gui\\adtech_core_service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{10B081BF-998A-4118-942C-E0AEA971AC1B}|IntegrationLayer_GUI\\IntegrationLayer_GUI.csproj|solutionrelative:integrationlayer_gui\\adtech_core_service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10B081BF-998A-4118-942C-E0AEA971AC1B}|IntegrationLayer_GUI\\IntegrationLayer_GUI.csproj|C:\\Users\\Lenovo\\source\\repos\\AdtechILTesting\\integrationlayer_gui\\geogrphic_information_system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{10B081BF-998A-4118-942C-E0AEA971AC1B}|IntegrationLayer_GUI\\IntegrationLayer_GUI.csproj|c:\\users\\lenovo\\source\\repos\\adtechiltesting\\integrationlayer_gui\\geogrphic_information_system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{10B081BF-998A-4118-942C-E0AEA971AC1B}|IntegrationLayer_GUI\\IntegrationLayer_GUI.csproj|solutionrelative:integrationlayer_gui\\geogrphic_information_system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10B081BF-998A-4118-942C-E0AEA971AC1B}|IntegrationLayer_GUI\\IntegrationLayer_GUI.csproj|C:\\Users\\Lenovo\\source\\repos\\AdtechILTesting\\integrationlayer_gui\\head_end_system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{10B081BF-998A-4118-942C-E0AEA971AC1B}|IntegrationLayer_GUI\\IntegrationLayer_GUI.csproj|solutionrelative:integrationlayer_gui\\head_end_system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10B081BF-998A-4118-942C-E0AEA971AC1B}|IntegrationLayer_GUI\\IntegrationLayer_GUI.csproj|C:\\Users\\Lenovo\\source\\repos\\AdtechILTesting\\integrationlayer_gui\\network_planning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{10B081BF-998A-4118-942C-E0AEA971AC1B}|IntegrationLayer_GUI\\IntegrationLayer_GUI.csproj|solutionrelative:integrationlayer_gui\\network_planning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10B081BF-998A-4118-942C-E0AEA971AC1B}|IntegrationLayer_GUI\\IntegrationLayer_GUI.csproj|C:\\Users\\Lenovo\\source\\repos\\AdtechILTesting\\integrationlayer_gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10B081BF-998A-4118-942C-E0AEA971AC1B}|IntegrationLayer_GUI\\IntegrationLayer_GUI.csproj|solutionrelative:integrationlayer_gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10B081BF-998A-4118-942C-E0AEA971AC1B}|IntegrationLayer_GUI\\IntegrationLayer_GUI.csproj|C:\\Users\\Lenovo\\source\\repos\\AdtechILTesting\\integrationlayer_gui\\head_end_system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10B081BF-998A-4118-942C-E0AEA971AC1B}|IntegrationLayer_GUI\\IntegrationLayer_GUI.csproj|solutionrelative:integrationlayer_gui\\head_end_system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10B081BF-998A-4118-942C-E0AEA971AC1B}|IntegrationLayer_GUI\\IntegrationLayer_GUI.csproj|C:\\Users\\Lenovo\\source\\repos\\AdtechILTesting\\integrationlayer_gui\\monitoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{10B081BF-998A-4118-942C-E0AEA971AC1B}|IntegrationLayer_GUI\\IntegrationLayer_GUI.csproj|c:\\users\\lenovo\\source\\repos\\adtechiltesting\\integrationlayer_gui\\monitoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{10B081BF-998A-4118-942C-E0AEA971AC1B}|IntegrationLayer_GUI\\IntegrationLayer_GUI.csproj|solutionrelative:integrationlayer_gui\\monitoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -42,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,94 +50,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Head_End_System.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\AdtechILTesting\\IntegrationLayer_GUI\\Head_End_System.cs",
-              "RelativeDocumentMoniker": "IntegrationLayer_GUI\\Head_End_System.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\AdtechILTesting\\IntegrationLayer_GUI\\Head_End_System.cs [Design]",
-              "RelativeToolTip": "IntegrationLayer_GUI\\Head_End_System.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T10:12:09.893Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Geogrphic_Information_System.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\AdtechILTesting\\IntegrationLayer_GUI\\Geogrphic_Information_System.cs",
-              "RelativeDocumentMoniker": "IntegrationLayer_GUI\\Geogrphic_Information_System.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\AdtechILTesting\\IntegrationLayer_GUI\\Geogrphic_Information_System.cs [Design]",
-              "RelativeToolTip": "IntegrationLayer_GUI\\Geogrphic_Information_System.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T10:11:13.079Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Network_Planning.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\AdtechILTesting\\IntegrationLayer_GUI\\Network_Planning.cs",
-              "RelativeDocumentMoniker": "IntegrationLayer_GUI\\Network_Planning.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\AdtechILTesting\\IntegrationLayer_GUI\\Network_Planning.cs [Design]",
-              "RelativeToolTip": "IntegrationLayer_GUI\\Network_Planning.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T10:12:12.74Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Virtual Network Meters.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\AdtechILTesting\\IntegrationLayer_GUI\\Virtual Network Meters.cs",
-              "RelativeDocumentMoniker": "IntegrationLayer_GUI\\Virtual Network Meters.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\AdtechILTesting\\IntegrationLayer_GUI\\Virtual Network Meters.cs [Design]",
-              "RelativeToolTip": "IntegrationLayer_GUI\\Virtual Network Meters.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T10:12:37.53Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Adtech_Core_Service.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\AdtechILTesting\\IntegrationLayer_GUI\\Adtech_Core_Service.cs",
               "RelativeDocumentMoniker": "IntegrationLayer_GUI\\Adtech_Core_Service.cs",
               "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\AdtechILTesting\\IntegrationLayer_GUI\\Adtech_Core_Service.cs [Design]",
               "RelativeToolTip": "IntegrationLayer_GUI\\Adtech_Core_Service.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T10:12:58Z"
+              "WhenOpened": "2024-09-17T15:51:30.127Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
+              "Title": "Geogrphic_Information_System.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\AdtechILTesting\\IntegrationLayer_GUI\\Geogrphic_Information_System.cs",
+              "RelativeDocumentMoniker": "IntegrationLayer_GUI\\Geogrphic_Information_System.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\AdtechILTesting\\IntegrationLayer_GUI\\Geogrphic_Information_System.cs [Design]",
+              "RelativeToolTip": "IntegrationLayer_GUI\\Geogrphic_Information_System.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T15:51:23.475Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Monitoring.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\AdtechILTesting\\IntegrationLayer_GUI\\Monitoring.cs",
               "RelativeDocumentMoniker": "IntegrationLayer_GUI\\Monitoring.cs",
               "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\AdtechILTesting\\IntegrationLayer_GUI\\Monitoring.cs [Design]",
               "RelativeToolTip": "IntegrationLayer_GUI\\Monitoring.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T10:02:13.195Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\AdtechILTesting\\IntegrationLayer_GUI\\Program.cs",
-              "RelativeDocumentMoniker": "IntegrationLayer_GUI\\Program.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\AdtechILTesting\\IntegrationLayer_GUI\\Program.cs",
-              "RelativeToolTip": "IntegrationLayer_GUI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T10:15:10.992Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Head_End_System.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\AdtechILTesting\\IntegrationLayer_GUI\\Head_End_System.cs",
-              "RelativeDocumentMoniker": "IntegrationLayer_GUI\\Head_End_System.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\AdtechILTesting\\IntegrationLayer_GUI\\Head_End_System.cs",
-              "RelativeToolTip": "IntegrationLayer_GUI\\Head_End_System.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAUwBYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T10:28:13.221Z"
+              "WhenOpened": "2024-09-17T15:49:46.324Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
